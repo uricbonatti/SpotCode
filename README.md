@@ -1,24 +1,7 @@
-# README
+# SpotCode
+### Semana Super Full Stack 2- 13/04 a 19/04
+#### OneBitCode 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+|Backend|Frontend|Estilização|
+|-------|--------|-----------|
+|Ruby On Rails| React | Bulma |
